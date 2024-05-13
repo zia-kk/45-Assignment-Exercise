@@ -11,3 +11,5 @@ for (let i = 0; i < myguests_List.length; i++) {
       `,\n we invited you on a Dinner.\n\n Thank You`
   );
 }
+
+export{myguests_List}
